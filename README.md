@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Lucas Batista 
 
 I'm **Lucas Batista Dias** — a passionate beginner developer 💻 and technology enthusiast 🚀. I'm on a journey to become a **front-end developer**, building beautiful and responsive web interfaces with **JavaScript**, **HTML**, and **CSS** 🎯.
 
