@@ -2,7 +2,7 @@
 
 **`Front-End Developer`**
 
-My name is Lucas Batista Dias, I'm 19 years old and a passionate beginner developer 💻 and technology enthusiast 🚀. I'm on a journey to become a front-end developer, building beautiful and responsive web interfaces using JavaScript, HTML, and CSS 🎯.
+My name is Lucas Batista Dias, I'm 20 years old and a passionate beginner developer 💻 and technology enthusiast 🚀. I'm on a journey to become a front-end developer, building beautiful and responsive web interfaces using JavaScript, HTML, and CSS 🎯.
 
 Here, you'll find some of my personal projects 🛠️ that reflect what I'm learning 📚 and experimenting with. I'm always looking to improve and open to new challenges 💡 — growth is part of the journey!
 
